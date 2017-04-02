@@ -1,3 +1,4 @@
+
 $(function() {
 
 	var latlng = new google.maps.LatLng(51.888147, 18.173089);
